@@ -1,0 +1,12 @@
+#pre {
+    border: 1px solid green;
+    padding-top: 10px;
+    background: rgb(178, 235, 94);
+}
+
+#gas {
+    border: 1px solid red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(240, 151, 151);
+}
